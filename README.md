@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/vaulstein/vaulstein/master/readme_header.png "Header")](https://www.linkedin.com/in/vaulstein-rodrigues-85000549)
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/vaultein/vaulstein/master/wave.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/vaulstein/vaulstein/master/wave.gif" width="30px">
 
 My name is Vaulstein Rodrigues and I'm a software developer. I'm from Mumbai,India. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
@@ -10,8 +10,16 @@ My name is Vaulstein Rodrigues and I'm a software developer. I'm from Mumbai,Ind
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=aws&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-express%20Js-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=node&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Scala-informational?style=flat&logo=scala&logoColor=white&color=2bbc8a)
+
+## &#x1f4bb; Stackoverflow
+
+[![SO](https://raw.githubusercontent.com/vaulstein/vaulstein/master/stackoverflow.png "SO")](https://stackoverflow.com/users/1934182/vaulstein)
 
 ## &#x1f4c8; GitHub Stats
 
@@ -23,13 +31,10 @@ My name is Vaulstein Rodrigues and I'm a software developer. I'm from Mumbai,Ind
 </a>
 
 <a href="https://github.com/vaulstein/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaulstein&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaulstein&repo=awsprofile&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
-<a href="https://github.com/vaulstein/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaulstein&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
 
 <!-- links to social media icons -->
 
