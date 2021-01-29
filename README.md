@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/vaulstein/vaulstein/master/readme_md.png "Header")](https://www.linkedin.com/in/vaulstein-rodrigues-85000549)
+[![Header](https://raw.githubusercontent.com/vaulstein/vaulstein/master/readme_md.svd "Header")](https://www.linkedin.com/in/vaulstein-rodrigues-85000549)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/vaulstein/vaulstein/master/wave.gif" width="30px">
 
