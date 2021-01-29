@@ -35,6 +35,8 @@ My name is Vaulstein Rodrigues and I'm a software developer. I'm from Mumbai,Ind
 </a>
 
 
+![Visitor Count](https://profile-counter.glitch.me/vaulstein/count.svg)
+
 
 <!-- links to social media icons -->
 
