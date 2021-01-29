@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/vaulstein/vaulstein/master/readme_header.png "Header")](https://www.linkedin.com/in/vaulstein-rodrigues-85000549)
+[![Header](https://raw.githubusercontent.com/vaulstein/vaulstein/master/readme_md.svg "Header")](https://www.linkedin.com/in/vaulstein-rodrigues-85000549)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/vaulstein/vaulstein/master/wave.gif" width="30px">
 
@@ -35,7 +35,7 @@ My name is Vaulstein Rodrigues and I'm a software developer. I'm from Mumbai,Ind
 </a>
 
 
-![Visitor Count](https://profile-counter.glitch.me/vaulstein/count.svg)
+Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/vaulstein/count.svg)
 
 
 <!-- links to social media icons -->
