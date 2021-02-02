@@ -19,7 +19,7 @@ My name is Vaulstein Rodrigues and I'm a software developer. I'm from Mumbai,Ind
 
 ## &#x1f4bb; Stackoverflow
 
-[![SO](https://raw.githubusercontent.com/vaulstein/vaulstein/master/stackoverflow.png "SO")](https://stackoverflow.com/users/1934182/vaulstein)
+[![SO](https://stackoverflow.com/users/flair/1934182.png "SO")](https://stackoverflow.com/users/1934182/vaulstein)
 
 ## &#x1f4c8; GitHub Stats
 
