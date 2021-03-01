@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/vaulstein/vaulstein/master/readme_md.svg "Header")](https://www.linkedin.com/in/vaulstein-rodrigues-85000549)
+<img src="header_en.svg"></img>
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/vaulstein/vaulstein/master/wave.gif" width="30px">
 
@@ -34,7 +34,7 @@ My name is Vaulstein Rodrigues and I'm a software developer. I'm from Mumbai,Ind
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaulstein&repo=awsprofile&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-
+<p></p>
 Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/vaulstein/count.svg)
 
 
