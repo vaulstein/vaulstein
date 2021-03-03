@@ -28,7 +28,11 @@ My name is Vaulstein Rodrigues and I'm a software developer. I'm from Mumbai, In
 <a href="https://github.com/vaulstein/vaulstein">
   <img width="550px" height="245px" align="center" src="https://github-readme-stats.vercel.app/api?username=vaulstein&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Vaulstein's GitHub Stats" />
 </a>
+<p></p>
 
+
+
+<p></p>
 <a width="800px" href="https://github.com/vaulstein/python-project-blueprint">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaulstein&repo=awsprofile&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
