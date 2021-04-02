@@ -22,13 +22,22 @@ My name is Vaulstein Rodrigues and I'm a software developer. I'm from Mumbai, In
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/vaulstein/vaulstein">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaulstein&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/vaulstein/vaulstein">
-  <img width="550px" height="245px" align="center" src="https://github-readme-stats.vercel.app/api?username=vaulstein&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Vaulstein's GitHub Stats" />
-</a>
-<p></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaulstein&show_icons=true&locale=en&layout=compact&theme=radical" alt="vaulstein" /></p>
+
+ 
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaulstein&theme=radical" alt="vaulstein" /></p>
+
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vaulstein&show_icons=true&count_private=true&theme=radical)
+
+</div>
+
+
+
+
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vaulstein&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+
+![Metrics](https://metrics.lecoq.io/vaulstein?template=terminal&languages=1&stars=1&stackoverflow=1&languages.colors=github&languages.threshold=0%25&stars.limit=4&stackoverflow.user=1934182&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=2&stackoverflow.lines=4&config.timezone=Asia%2FCalcutta)
 
 
 
