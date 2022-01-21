@@ -4,35 +4,30 @@
 My name is Vaulstein Rodrigues and I'm a software developer. I'm from Mumbai, India. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=aws&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-express%20Js-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=node&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Scala-informational?style=flat&logo=scala&logoColor=white&color=2bbc8a)
+
+<p align="center"> 
+ <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?&style=for-the-badge&logo=typescript&logoColor=white" />
+ <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-lightgreen?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
+ <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+ <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+ <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />e
+ <img alt="AWS" src="https://img.shields.io/badge/AWS-AWS-orange?style=for-the-badge&logo=aws&logoColor=white" />
+<img alt="Docker" src="https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white"/>
+ <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+ <img alt="SCALA" src="https://img.shields.io/badge/SCALA-SCALA-lightgrey?style=for-the-badge&logo=scala&logoColor=white" />
+<img alt="Postgres" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
 
 ## &#x1f4bb; Stackoverflow
 
-[![SO](https://stackoverflow.com/users/flair/1934182.png "SO")](https://stackoverflow.com/users/1934182/vaulstein)
+---
+
+|[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=1934182)](https://stackoverflow.com/users/1934182/vaulstein) |<img src="https://github-readme-streak-stats.herokuapp.com/?&user=vaulstein"/>|
+|---|---|
 
 ## &#x1f4c8; GitHub Stats
-
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaulstein&show_icons=true&locale=en&layout=compact&theme=radical" alt="vaulstein" /></p>
-
- 
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaulstein&theme=radical" alt="vaulstein" /></p>
-
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vaulstein&show_icons=true&count_private=true&theme=radical)
-
-</div>
-
-
-
 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vaulstein&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
@@ -46,6 +41,10 @@ My name is Vaulstein Rodrigues and I'm a software developer. I'm from Mumbai, In
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaulstein&repo=awsprofile&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <p></p>
+
+<div align="center">
+<img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
+</div>
 
 
 Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/vaulstein/count.svg)
