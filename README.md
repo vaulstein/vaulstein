@@ -7,16 +7,20 @@ My name is Vaulstein Rodrigues and I'm a software developer. I'm from Mumbai, In
 
 <p align="center"> 
  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?&style=for-the-badge&logo=typescript&logoColor=white" />
- <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-lightgreen?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
+ <img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+ <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+ <img alt="Docker" src="https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=docker&logoColor=white"/>
  <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
- <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
- <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />e
- <img alt="AWS" src="https://img.shields.io/badge/AWS-AWS-orange?style=for-the-badge&logo=aws&logoColor=white" />
-<img alt="Docker" src="https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=python&logoColor=white"/>
+ <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+ 
 <img alt="Python" src="https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white"/>
  <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
  <img alt="SCALA" src="https://img.shields.io/badge/SCALA-SCALA-lightgrey?style=for-the-badge&logo=scala&logoColor=white" />
-<img alt="Postgres" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+ <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-lightgreen?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
+<img alt="Alpine Linux" src="https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white" />
+<img alt="Shell script" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img alt="Vue js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+<img alt="Express js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
 </p>
 
 
